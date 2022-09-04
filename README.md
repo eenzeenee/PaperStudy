@@ -1,4 +1,4 @@
-# Paper_study
+# PaperStudy
 archiving for paper study
 
 
