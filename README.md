@@ -2,5 +2,5 @@
 archiving for paper study
 
 
-- about **figure captioning**
+- about **image/figure captioning**
 - about **prompt learning/engineering**
