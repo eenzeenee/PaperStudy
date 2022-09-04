@@ -2,5 +2,5 @@
 archiving for paper study
 
 
-1. about figure captioning
-2. about prompt learning/engineering
+- about figure captioning
+- about prompt learning/engineering
